@@ -1,5 +1,5 @@
 - ✌🏻 Hi, I’m @gabiberr
-- 👀 I’m interested in computational linguistics and phonetics, recently I'm curious on how animals comunicate with each other, their paterns and the phonetic aspect of it. Also, I'm focusing on NLP and different technices/tools that I can use to do linguistic studies by using code. 
+- 👀 I’m interested in computational linguistics and phonetics. 
 - 👩🏻‍💻 I’m currently learning how to code. 
 - 📫 You can reach me via mail (gabypberr@gmail.com)
 - 🧚🏻‍♀️ Pronouns: she/her
